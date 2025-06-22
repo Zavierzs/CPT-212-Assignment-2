@@ -12,4 +12,4 @@
 
 This repository contains an implementation of the Boyer-Moore string matching algorithm in Python, developed as part of the CPT212 Assignment 2.
 
-The Boyer-Moore algorithm is a highly efficient string searching method that uses preprocessing techniques—namely the **bad character** and **good suffix** heuristics—to skip sections of the text during search. This allows it to perform significantly faster than naive matching methods, especially on large texts or longer patterns.
+The Boyer-Moore algorithm is a highly efficient string searching method that uses preprocessing techniques—namely the **bad character heuristics** and **good suffix rule**  to skip sections of the text during search. This allows it to perform significantly faster than naive matching methods, especially on large texts or longer patterns.
